@@ -11,4 +11,4 @@
 ### We used statistical tests like correlation test and chi-squared test to test the significance of our results.
 
 ### From our data analysis, we can conclude that the following variables matter in helping business managers make informed decision:
-### Game genre, Publishers, Metacritic Score, User Score
+#### Game genre, Publishers, Metacritic Score, User Score
